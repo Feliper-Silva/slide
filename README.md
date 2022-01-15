@@ -27,4 +27,4 @@ npm start
 
 ## License
 
-MIT © [Felipe Silva](linkedin.com/in/Feliper-Silva/)
+MIT © [Felipe Silva](https://linkedin.com/in/Feliper-Silva/)
